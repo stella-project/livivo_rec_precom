@@ -1,0 +1,5 @@
+.idea/
+__pycache__/
+precom/rec/datasets/run.txt
+precom/rec/publications/run.txt
+precom/rank/run.txt
